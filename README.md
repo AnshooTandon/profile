@@ -1,1 +1,1 @@
-# profile: html files for Anshoo's static html webpage 
+# profile: html files for Anshoo's static website
